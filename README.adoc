@@ -1,0 +1,5 @@
+# Kuzon Chen Blog
+
+Access my blog: https://kuzoncby.github.io/
+
+This Site is the notes that webmaster made in order not to forget configurations.
